@@ -1,3 +1,3 @@
 # firstrep
 sikh rha hu
-Author - Sachyam
+Author - Sachyam Shakya
